@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Uddeshya
-- 👀 I’m interested in ...Development
+- 👀 I’m interested in ...Product Development
 - 🌱 I’m currently learning ...ML AND AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
